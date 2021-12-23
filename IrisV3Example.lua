@@ -1,4 +1,4 @@
-local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterNotifications.lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/iCalux/Notifications/main/IrisV3Source.lua"))()
 
 Notification.WallNotification("God", "Yeet", {
     MainSettings = {
